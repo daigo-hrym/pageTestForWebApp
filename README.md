@@ -1,0 +1,2 @@
+# pageTestForWebApp
+AzureのWebアプリデプロイ検証用に作成したリポジトリ
